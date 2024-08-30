@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\migrations\\20240830154917_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\migrations\\20240830154917_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\services\\userloginandregisterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\services\\userloginandregisterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\hotelbooking.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\hotelbooking.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\repositories\\genericuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\repositories\\genericuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\repositories\\userdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\repositories\\userdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\source\\repos\\Capstone\\HotelBookingSolution\\HotelBooking\\Migrations\\20240723123135_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\contexts\\hotelbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\contexts\\hotelbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\dtos\\registerreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\dtos\\registerreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\interfaces\\iuserloginandregisterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\interfaces\\iuserloginandregisterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\dtos\\loginreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\dtos\\loginreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\exceptions\\nosuchuserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\exceptions\\nosuchuserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\dtos\\userregisterinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\dtos\\userregisterinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|c:\\users\\vc\\documents\\presidio migration training\\30-08-2024\\task1 (monolithic to microservice)\\microserviceapplication\\backend\\hotelbooking\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DDD7EB-4498-46FD-9D9F-85B3FFE37941}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240830154917_init.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Migrations\\20240830154917_init.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Migrations\\20240830154917_init.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Migrations\\20240830154917_init.cs",
+              "RelativeToolTip": "HotelBooking\\Migrations\\20240830154917_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:49:17.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Program.cs",
+              "RelativeToolTip": "HotelBooking\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:08:26.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Repositories\\UserDetailRepository.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Repositories\\UserDetailRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Repositories\\UserDetailRepository.cs",
+              "RelativeToolTip": "HotelBooking\\Repositories\\UserDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:43:06.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HotelBooking\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:42:17.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HotelBooking\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:24:30.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelBooking\\appsettings.json",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\appsettings.json",
+              "RelativeToolTip": "HotelBooking\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T11:28:56.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Dockerfile",
+              "RelativeDocumentMoniker": "HotelBooking\\Dockerfile",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Dockerfile",
+              "RelativeToolTip": "HotelBooking\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-30T12:58:41.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginAndRegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Services\\UserLoginAndRegisterServices.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Services\\UserLoginAndRegisterServices.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Services\\UserLoginAndRegisterServices.cs",
+              "RelativeToolTip": "HotelBooking\\Services\\UserLoginAndRegisterServices.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAIAwwGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:53:20.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\User.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:03:05.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Repositories\\GenericUserRepository.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Repositories\\GenericUserRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Repositories\\GenericUserRepository.cs",
+              "RelativeToolTip": "HotelBooking\\Repositories\\GenericUserRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:30:53.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelBooking",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\HotelBooking.csproj",
+              "RelativeDocumentMoniker": "HotelBooking\\HotelBooking.csproj",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\HotelBooking.csproj",
+              "RelativeToolTip": "HotelBooking\\HotelBooking.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T12:14:07.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterReturnDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\RegisterReturnDTO.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\DTOs\\RegisterReturnDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\RegisterReturnDTO.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\DTOs\\RegisterReturnDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:23:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240723123135_init.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\source\\repos\\Capstone\\HotelBookingSolution\\HotelBooking\\Migrations\\20240723123135_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\Capstone\\HotelBookingSolution\\HotelBooking\\Migrations\\20240723123135_init.cs",
+              "ToolTip": "C:\\Users\\VC\\source\\repos\\Capstone\\HotelBookingSolution\\HotelBooking\\Migrations\\20240723123135_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\Capstone\\HotelBookingSolution\\HotelBooking\\Migrations\\20240723123135_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:31:35.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Contexts\\HotelBookingDbContext.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Contexts\\HotelBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Contexts\\HotelBookingDbContext.cs",
+              "RelativeToolTip": "HotelBooking\\Contexts\\HotelBookingDbContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:32:36.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserLoginAndRegisterServices.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Interfaces\\IUserLoginAndRegisterServices.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Interfaces\\IUserLoginAndRegisterServices.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Interfaces\\IUserLoginAndRegisterServices.cs",
+              "RelativeToolTip": "HotelBooking\\Interfaces\\IUserLoginAndRegisterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:52:41.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginReturnDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\LoginReturnDTO.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\DTOs\\LoginReturnDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\LoginReturnDTO.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\DTOs\\LoginReturnDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:22:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Services\\TokenServices.cs",
+              "RelativeToolTip": "HotelBooking\\Services\\TokenServices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:49:17.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\UserDetails.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\UserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:15:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:24:27.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Exceptions\\UserAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "HotelBooking\\Exceptions\\UserAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:56:53.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Interfaces\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Interfaces\\ITokenServices.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Interfaces\\ITokenServices.cs",
+              "RelativeToolTip": "HotelBooking\\Interfaces\\ITokenServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:49:46.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NoSuchUserException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Exceptions\\NoSuchUserException.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Exceptions\\NoSuchUserException.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Exceptions\\NoSuchUserException.cs",
+              "RelativeToolTip": "HotelBooking\\Exceptions\\NoSuchUserException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:40:36.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "HotelBooking\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:31:23.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRegisterInputDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\UserRegisterInputDTO.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\DTOs\\UserRegisterInputDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\UserRegisterInputDTO.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\DTOs\\UserRegisterInputDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:25:07.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "userDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\userDTO.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Models\\DTOs\\userDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\Presidio Migration Training\\30-08-2024\\Task1 (Monolithic to MicroService)\\MicroServiceApplication\\Backend\\HotelBooking\\Models\\DTOs\\userDTO.cs",
+              "RelativeToolTip": "HotelBooking\\Models\\DTOs\\userDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:24:09.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
