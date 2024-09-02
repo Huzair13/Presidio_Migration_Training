@@ -1,0 +1,6 @@
+Task 1 
+
+Develop and execute a solution to migrate the data from an Excel file 
+into an Azure SQL Server database with the help of Azure Data Factory (ADF) 
+and Azure Storage Account. Please migrate only the mentioned columns, 
+with the correct data type.
